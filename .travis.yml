@@ -4,3 +4,5 @@ node_js:
 cache:
   directories:
     - node_modules
+notifications:
+  slack: myworkspace-nfu1022:ezLiRbc6IQ9ssY7rUQwhrfXA
