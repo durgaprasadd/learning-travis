@@ -1,0 +1,3 @@
+.nyc_output
+*lock*
+node_modules

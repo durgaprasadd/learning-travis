@@ -1,0 +1,26 @@
+{
+  "name": "learning_travis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "me",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durgaprasadd/learning-travis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/durgaprasadd/learning-travis/issues"
+  },
+  "homepage": "https://github.com/durgaprasadd/learning-travis#readme",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nyc": "^13.3.0"
+  }
+}
