@@ -12,4 +12,9 @@ describe("sum", () => {
     let expected = -3;
     assert.deepEqual(actual, expected);
   });
+  it("should fail", () => {
+    let actual = sum(10, 10);
+    let expected = 2;
+    assert.deepEqual(actual, expected);
+  });
 });
